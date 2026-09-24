@@ -1,4 +1,8 @@
 ---
+genres:
+  - shooter
+  - action
+  - horror
 video: https://youtu.be/1XChnCqAbkQ
 post: https://github.com/codyebberson/js13k-phantomicus?tab=readme-ov-file#retrospective
 # See github.com/js13kGames/hello-world for supported frontmatter
